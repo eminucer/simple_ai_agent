@@ -1,2 +1,2 @@
-# simple_ai_agent
+# Simple AI agent
  A simple maze game empowered with an LLM-based AI agent.
